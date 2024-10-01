@@ -1,9 +1,9 @@
-<h1>Hi there 👋</h1>
+ <h1>Hi there 👋</h1>
 
 
-I'm Shamsul Alam (sumon)
+<h2>I'm Shamsul Alam (sumon)</h2>
 
-Here are some ideas to get you started:
+<h3><strong>A passionate PHP Laravel and Vue.js developer</strong></h3>
 
 - 🔭 I’m currently working on https://test.white-lab.it/
 - 👯 I have experience with <strong> "eCommerce, restaurant POS, SMS sending, and CMS web applications developed using Laravel."</strong>
