@@ -5,7 +5,7 @@
 
 <h3><strong>A passionate PHP Laravel and Vue.js developer</strong></h3>
 
-- 🔭 I’m currently working on https://puremetix.com/
+- 🔭 I’m currently working on http://omenti.it/
 - 👯 I have experience with <strong> "eCommerce, restaurant POS, SMS sending, and CMS web applications developed using Laravel."</strong>
 - ⚡ Recently I have worked on https://readycash-sdnbhd.com/
 - 💬 Ask me about PHP, Laravel, Vue.js 
